@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+Trọng Nghĩa - Người Dẫn Dắt Thành Công Của MIBET
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Trọng Nghĩa <https://mibet.bar/trong-nghia/>`_ là một trong những nhân vật nổi bật tại MIBET, đóng vai trò quan trọng trong việc phát triển và định hướng chiến lược cho MIBET. Với kiến thức sâu rộng trong lĩnh vực cá cược trực tuyến và hơn 10 năm kinh nghiệm, Trọng Nghĩa đã góp phần đưa MIBET trở thành một trong những nền tảng cá cược uy tín hàng đầu, được cấp phép bởi PAGCOR và Isle of Man. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Anh luôn tập trung vào việc cải thiện chất lượng dịch vụ, mở rộng danh mục trò chơi, và đảm bảo trải nghiệm cá cược an toàn, minh bạch cho hơn 10 triệu thành viên. Với sự dẫn dắt của Trọng Nghĩa, MIBET không chỉ giữ vững vị thế mà còn không ngừng phát triển và tạo dựng lòng tin từ cộng đồng người chơi.
 
-.. note::
+Thông tin liên hệ: 
 
-   This project is under active development.
+Địa chỉ: 2787 Đ. Phạm Thế Hiển, Phường 7, Quận 8, Hồ Chí Minh, Vietnam. 
 
-Contents
---------
+Phone: 0300699563. 
 
-.. toctree::
+Email: contact@mibet.bar. 
 
-   usage
-   api
+Website: https://mibet.bar/trong-nghia/ 
+
+#trongnghia #ceotrongnghia #ceotrongnghia_mibet
